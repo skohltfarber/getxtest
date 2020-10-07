@@ -1,17 +1,3 @@
 # getxtest
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# getxtest
+I am using GetX to see Themes and Localization. I really need to place an object into the translation file. I have asked if they have the ability to do it. If it does this, I will make a migration to the GetX Plugin. I am impressed with it and it will be something in the future. 
